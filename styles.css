@@ -1,0 +1,32 @@
+0px;
+  font-family: system-ui, Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: indigo;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 20px;
+  color: grey;
+}
+
+.float-left {
+  font-size: 80px;
+}
+
+li {
+  list-style: none;
+}
