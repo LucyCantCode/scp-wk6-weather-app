@@ -1,4 +1,9 @@
-0px;
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: grey;
+  font-size: 80px;
   font-family: system-ui, Arial, Helvetica, sans-serif;
 }
 
